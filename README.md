@@ -19,8 +19,8 @@ Testing data for ShanghaiTech and UCF-QNRF dataset have been preprocessed. You c
 ## Model
 Pretrained weights can be downloaded from:
 
-ShanghaiTech PartA [Baidu Yun]() with code: or [Google Drive]()
+ShanghaiTech PartA [[Baidu Yun]]() with code: or [[Google Drive]]()
 
-ShanghaiTech PartB [Baidu Yun]() with code: or [Google Drive]()
+ShanghaiTech PartB [[Baidu Yun]]() with code: or [[Google Drive]]()
 
-UCF-QNRF [Baidu Yun]() with code: or [Google Drive]()
+UCF-QNRF [[Baidu Yun]]() with code: or [[Google Drive]]()
