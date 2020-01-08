@@ -1,5 +1,5 @@
 # SS-DCNet
-This is the repository for S-DCNet, presented in our paper:
+This is the repository for SS-DCNet, presented in our paper:
 
 [**From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting**](https://arxiv.org/abs/2001.01886)
 
