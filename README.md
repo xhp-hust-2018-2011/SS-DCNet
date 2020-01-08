@@ -18,6 +18,7 @@ Liang Liu<sup>1</sup>, [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/)<sup>2
 ## Results
 The mean average error (MAE) of SS-DCNet over 5 challenging counting datasets are reported on the table:
 |      | SHA | SHB |UCF_CC_50 | UCF-QNRF | TRANCOS | MTC|
+
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 
 |S-DCNet (cls)|58.3|6.7|204.2|104.4|2.92|5.6|   
