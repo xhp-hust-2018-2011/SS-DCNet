@@ -38,9 +38,9 @@ UCF-QNRF [[Baidu Yun]]() with code: or [[Google Drive]]()
 ```
 -->The whole project
     -->data
-        -->SH_partA_Density_map
-        -->SH_partB_Density_map
-        -->QNRF_Density_map
+        -->SH_partA
+        -->SH_partB
+        -->UCF-QNRF_ECCV18
     -->model
         -->SHA
         -->SHB
