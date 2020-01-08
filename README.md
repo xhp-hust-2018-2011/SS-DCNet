@@ -30,3 +30,52 @@ ShanghaiTech PartA [[Baidu Yun]]() with code: or [[Google Drive]]()
 ShanghaiTech PartB [[Baidu Yun]]() with code: or [[Google Drive]]()
 
 UCF-QNRF [[Baidu Yun]]() with code: or [[Google Drive]]()
+
+## A Quick Demo
+1. Download the code, data and model.
+
+2. Organize them into one folder. The final path structure looks like this:
+```
+-->The whole project
+    -->data
+        -->SH_partA_Density_map
+        -->SH_partB_Density_map
+        -->QNRF_Density_map
+    -->model
+        -->SHA
+        -->SHB
+        -->QNRF
+    -->Network
+        -->base_Network_module.py
+        -->merge_func.py
+        -->class_func.py
+        -->SSDCNet.py
+    -->all_main.py
+    -->main_process.py
+    -->Val.py
+    -->load_data_V2.py
+    -->IOtools.py
+```
+
+3. Run the following code to reproduce our results. The MAE will be SHA: 55.571, SHB: 6.645 and QNRF: 81.864 . Have fun:)
+    
+       python all_main.py --dataset SHA for ShanghaiTech PartA
+       
+       python all_main.py --dataset SHB for ShanghaiTech PartB
+       
+       python all_main.py --dataset QNRF for UCF-QNRF
+       
+
+
+## References
+If you find this work or code useful for your research, please cite:
+```
+@misc{xiong2020open,
+    title={From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting},
+    author={Haipeng Xiong and Hao Lu and Chengxin Liu and Liang Liu and Chunhua Shen and Zhiguo Cao},
+    year={2020},
+    eprint={2001.01886},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
