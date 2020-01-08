@@ -16,6 +16,12 @@ Please install required packages according to `requirements.txt`.
 ## Data
 Testing data for ShanghaiTech and UCF-QNRF dataset have been preprocessed. You can download the processed dataset from:
 
+ShanghaiTech PartA [[Baidu Yun]]() with code: or [[Google Drive]]()
+
+ShanghaiTech PartB [[Baidu Yun]]() with code: or [[Google Drive]]()
+
+UCF-QNRF [[Baidu Yun]]() with code: or [[Google Drive]]()
+
 ## Model
 Pretrained weights can be downloaded from:
 
