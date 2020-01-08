@@ -67,7 +67,7 @@ UCF-QNRF [[Baidu Yun]](https://pan.baidu.com/s/1vL0r5ntWHQ_fKlUg6J-zqw) with cod
 3. Run the following code to reproduce our results. The MAE will be SHA: 55.571, SHB: 6.645 and QNRF: 81.864 . Have fun:)
        
        for ShanghaiTech PartA:
-       python all_main.py --dataset SHB 
+       python all_main.py --dataset SHA 
        
        for ShanghaiTech PartB:
        python all_main.py --dataset SHB 
