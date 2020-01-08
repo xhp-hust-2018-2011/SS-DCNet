@@ -16,9 +16,11 @@ Liang Liu<sup>1</sup>, [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/)<sup>2
 - We report state-of-the-art counting performance over 5 challenging datasets with remarkable relative improvements. We also show good transferablity of SS-DCNet via cross-dataset evaluations on crowd counting datasets.
 
 ## Results
+The mean average error (MAE) of SS-DCNet over 5 challenging counting datasets are reported on the table:
 |      | SHA | SHB |UCF_CC_50 | UCF-QNRF | TRANCOS | MTC|
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-
+|S-DCNet|
+|SS-DCNet|
 ## Environment
 Please install required packages according to `requirements.txt`.
 
