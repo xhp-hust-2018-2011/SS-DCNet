@@ -10,6 +10,12 @@ Liang Liu<sup>1</sup>, Zhiguo Cao<sup>1</sup>, [Chunhua Shen](http://cs.adelaide
 
 <sup>2</sup>The University of Adelaide, Australia
 
+## Contributions
+- We propose to transform open-set counting into a closed set problem via S-DC. A theoretical analysis of why such a transformation makes sense is also presented;
+- We investigate the explicit supervision for S-DC, which leads to a novel SS-DCNet. SS-DCNet is applicable to both regression-based and classification-based counters and can produce visually clear spatial divisions;
+- We report state-of-the-art counting performance over 5 challenging datasets with remarkable relative improvements. We also show good transferablity of SS-DCNet via cross-dataset evaluations on crowd counting datasets.
+
+
 ## Environment
 Please install required packages according to `requirements.txt`.
 
